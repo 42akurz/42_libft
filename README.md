@@ -1,5 +1,4 @@
-# LIBFT - my own library
-___
+# LIBFT - 42 School Project - my own library
 
 ## Table of contents
 - [LIBFT - my own library](#libft---my-own-library)
