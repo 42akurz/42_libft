@@ -1,4 +1,4 @@
-# LIBFT - 42 School Project - my own library
+# Libft - 42 School Project - my own library
 
 [![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/Libft)](https://github.com/JaeSeoKim/badge42)
 
