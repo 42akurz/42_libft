@@ -30,7 +30,7 @@ libft is the first project at 42. It is about creating a library of basic functi
 
 Clone the repository:
 ```bash
-git clone https://github.com/42akurz/libft.git
+https://github.com/42akurz/libft.git
 ```
 Go to the repository and run make
 ```bash
@@ -163,4 +163,4 @@ https://github.com/alelievr/libft-unit-test
 
 
 Libft-unit-test:
-https://github.com/alelievr/libft-unit-test
+https://github.com/Tripouille/libftTester.git
