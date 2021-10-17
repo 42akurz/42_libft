@@ -30,7 +30,7 @@ libft is the first project at 42. It is about creating a library of basic functi
 
 Clone the repository:
 ```bash
-https://github.com/42akurz/libft.git
+https://github.com/42akurz/42_libft.git
 ```
 Go to the repository and run make
 ```bash
