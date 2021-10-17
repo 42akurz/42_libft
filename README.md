@@ -36,7 +36,7 @@ Go to the repository and run make
 ```bash
 make
 ```
-Copy libft.a and libft.h into your directory and include libft.h in your files
+Make sure libft.a and libft.h are in the same directory that you want to call the functions from. Include libft.h in your files
 ```c
 #include "libft.h"
 ```
