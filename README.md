@@ -1,6 +1,6 @@
 # Libft - 42 School Project - my own library
 
-[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/Libft)](https://github.com/JaeSeoKim/badge42)
+[![akurz's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1z3zeq4001109mkr4my4esw/project/2202337)](https://github.com/JaeSeoKim/badge42)
 
 ## Table of contents
 - [LIBFT - my own library](#libft---my-own-library)
