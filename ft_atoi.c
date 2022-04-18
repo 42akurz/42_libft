@@ -44,13 +44,3 @@ int	ft_atoi(const char *str)
 	}
 	return (res * sign);
 }
-
-/*
-special char: space, carriage return, newline, tab, feed,
-              backspace, vertical tab
-int res: ergebnis speichern
-int sign: vorzeichen
-erstes if: dass auch negative zahlen converted werden koennen
-letzte while: *10 fuer weitere digits, + str[i] - '0', dass digit
-             ein wert bekommt und ascii wert mit reelem stimmt
-*/

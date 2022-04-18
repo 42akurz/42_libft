@@ -116,6 +116,3 @@ char	*ft_itoa(int n)
 	ft_reverse(temp, minus);
 	return (temp);
 }
-
-//falls n null ist setzt i to a an erste stelle \0 (temp[i] = \0)
-//dadurch wird strlen == 0 und in reverse wird ft_null aufgerufen

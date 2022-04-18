@@ -28,8 +28,3 @@ void	*ft_calloc(size_t count, size_t size)
 	}
 	return ((void *) b);
 }
-//size_t: size_t selbe wie unsigned int (ist meint counter fuer while loop)
-//b =: malloc type casting weil man mit char und void nicht rechnen kann
-//erstes if: wichtig muss bei malloc immer mit rein
-//erster while: speicher mit nullen vollmachen
-//return: void pointer muss returned werden deshalb wieder type casten

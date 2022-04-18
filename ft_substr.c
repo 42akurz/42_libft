@@ -39,16 +39,3 @@ char	*ft_substr(char const *s, unsigned int start, size_t len)
 	substring[x] = '\0';
 	return (substring);
 }
-/*
-x ist der beginn von s
-i ist der beginn vom substring
-wenn der string leer ist soll null returend werden
-allocate die lange des substrings mit dem nullterminator
-wenn der substring leer ist null returnen
-wenn der start des substrings hinter dem ausgangsstring ist wird ein leerer
-									substring returned
-string in substring kopieren
-substring beginnt bei 0 desawegen substring von [x]
-string soll ab start kopieren deswegen s[i]
-null terminaten und string returen
-*/

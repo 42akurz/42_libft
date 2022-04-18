@@ -32,5 +32,3 @@ size_t	ft_strlcat(char *dst, const char *src, size_t dstsize)
 	dst[x] = '\0';
 	return (ft_strlen(dst) + re - i);
 }
-//erster while loop: src[i] waere das selbe wie src[i] != '\0'
-//return: laenge die in dstsize hineinpasst

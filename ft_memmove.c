@@ -39,7 +39,3 @@ void	*ft_memmove(void *dst, const void *src, size_t len)
 	}
 	return ((void *)dst);
 }
-//zweites if: strings ueberlappen nicht also normal cpy
-//drittes if: strings ueberlappen
-//i = len: zum ende des strings und reverse cpy
-//letzte while: bis index beim 0 (erster char) ist

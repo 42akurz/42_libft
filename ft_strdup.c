@@ -29,7 +29,3 @@ char	*ft_strdup(const char *s1)
 	res[i] = '\0';
 	return (res);
 }
-//res: reservier platz fuer string und null terminator
-//erster while: strcpy
-//ende nul terminator setzen
-//return pointer to string
